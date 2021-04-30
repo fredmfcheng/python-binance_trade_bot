@@ -1,1 +1,3 @@
-# crypto_trading_bot
+## crypto_trading_bot
+
+A crypto trading bot for Binance Exchange, with signals generated with technical indicators from TA Lib.
